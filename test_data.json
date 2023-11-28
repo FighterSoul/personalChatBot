@@ -1,0 +1,43 @@
+[
+    {
+      "input": "Hi",
+      "expected_output": ["Hello!"]
+    },
+    {
+      "input": "How are you?",
+      "expected_output": ["Hi there, how can I help?"]
+    },
+    {
+      "input": "See you later",
+      "expected_output": ["Talk to you later"]
+    },
+    {
+      "input": "I am Leaving",
+      "expected_output": ["Sad to see you go :("]
+    },
+    {
+      "input": "who created you",
+      "expected_output": ["Hedi created me"]
+    },
+    {
+      "input": "what is the name of the developers",
+      "expected_output": ["Hedi created me"]
+    },
+    {
+      "input": "your name",
+      "expected_output": ["You can call me Mind Reader."]
+    },
+    {
+      "input": "what is your name",
+      "expected_output": ["I'm Mind Reader"]
+    },
+    {
+      "input": "when are you guys open",
+      "expected_output": []
+    },
+    {
+      "input": "what are your hours",
+      "expected_output": []
+    }
+  ]
+  
